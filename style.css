@@ -1,0 +1,43 @@
+
+.nav-container{
+    position: absolute;
+    top: 20px;
+    background-color: antiquewhite;
+}
+.nav-container>a{
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+    
+}
+
+.square{
+    width: 350px;
+    height: 200px;
+    background-color: green;
+    position: relative;
+    left: 100px;
+}
+
+.circle{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    top: 25px;
+    left: 100px;
+}
+.handel{
+    width: 10px;
+    height: 500px;
+    background-color: black;
+    border-radius: 10px;
+    position: absolute;
+    top: -5px;
+}
+
+p{
+    position: absolute;
+    left: 180px;
+}
